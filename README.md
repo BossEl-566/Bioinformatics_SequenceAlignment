@@ -7,3 +7,6 @@ create data/cleaned/hemoglobin_beta_cleaned.fasta
 
 ## For pairwise alignment
 run python scripts/02_pairwise_alignment.py
+
+## Human vs Zebrafish alignment
+run python scripts/03_pairwise_human_vs_zebrafish.py

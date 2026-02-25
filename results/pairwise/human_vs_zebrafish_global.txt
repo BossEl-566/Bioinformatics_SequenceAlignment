@@ -1,0 +1,16 @@
+Sequence 1: sp|P68871|HBB_HUMAN
+Sequence 2: sp|Q90486|HBB1_DANRE
+Mode: global
+Score: 419.0
+
+target            0 MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK
+                  0 ||..|..|..|...||||.|.||.|..||.|.|.|||||||.|..||.||.|.|.|||||
+query             0 MVEWTDAERTAILGLWGKLNIDEIGPQALSRCLIVYPWTQRYFATFGNLSSPAAIMGNPK
+
+target           60 VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG
+                 60 |.|||..|.|.........||.|.|.|.||..|..||||||.|||||........|..||
+query            60 VAAHGRTVMGGLERAIKNMDNVKNTYAALSVMHSEKLHVDPDNFRLLADCITVCAAMKFG
+
+target          120 KE-FTPPVQAAYQKVVAGVANALAHKYH 147
+                120 ..-|...||.|.||..|.|..||...|| 148
+query           120 QAGFNADVQEAWQKFLAVVVSALCRQYH 148
