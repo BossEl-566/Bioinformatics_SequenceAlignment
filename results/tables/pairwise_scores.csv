@@ -1,0 +1,3 @@
+sequence_1,sequence_2,mode,gap_open,gap_extend,score
+sp|P68871|HBB_HUMAN,sp|P68873|HBB_PANTR,global,-10,-0.5,780.0
+sp|P68871|HBB_HUMAN,sp|P68873|HBB_PANTR,local,-10,-0.5,780.0
