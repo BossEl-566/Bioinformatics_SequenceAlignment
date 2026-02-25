@@ -10,3 +10,6 @@ run python scripts/02_pairwise_alignment.py
 
 ## Human vs Zebrafish alignment
 run python scripts/03_pairwise_human_vs_zebrafish.py
+
+## Gap penalty experimant
+run python scripts/04_pairwise_gap_experiment.py
