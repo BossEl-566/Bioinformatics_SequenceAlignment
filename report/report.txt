@@ -1,9 +1,0 @@
-### 4.1 Pairwise Sequence Alignment Results (Human vs Chimpanzee; Human vs Zebrafish)
-
-Pairwise sequence alignment was performed using Biopython’s PairwiseAligner with the BLOSUM62 substitution matrix. Both global (Needleman–Wunsch-style) and local (Smith–Waterman-style) alignment modes were tested.
-
-For the human and chimpanzee hemoglobin beta (HBB) protein sequences, the global and local alignments produced identical results with a score of 780.0. The alignment showed complete residue-by-residue identity across the full sequence length, indicating that the selected HBB sequences from Homo sapiens and Pan troglodytes were identical in this dataset.
-
-A second pairwise comparison was performed between human and zebrafish HBB to observe alignment behavior across more evolutionarily distant species. In this case, both global and local alignment scores were 419.0 under the default gap settings (gap open = -10, gap extend = -0.5). The alignment contained multiple mismatches and at least one gap, reflecting sequence divergence while still preserving conserved hemoglobin regions.
-
-To study the effect of gap penalties, additional experiments were performed using human vs zebrafish HBB with three gap settings. The alignment scores decreased as gap penalties became more stringent: 422.0 for (-8, -0.2), 419.0 for (-10, -0.5), and 417.0 for (-12, -1.0). This demonstrates that stricter gap penalties reduce alignment scores by increasing the cost of insertions/deletions.
