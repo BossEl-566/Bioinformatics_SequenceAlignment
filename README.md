@@ -13,3 +13,6 @@ run python scripts/03_pairwise_human_vs_zebrafish.py
 
 ## Gap penalty experimant
 run python scripts/04_pairwise_gap_experiment.py
+
+## running multiple sequence alignment
+run python scripts/05_run_muscle_msa.py
