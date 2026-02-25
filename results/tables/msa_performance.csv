@@ -1,0 +1,2 @@
+tool,num_sequences,avg_seq_length,runtime_sec,mem_delta_mb,alignment_length
+MUSCLE,11,146.45,0.2146,0.3125,148
